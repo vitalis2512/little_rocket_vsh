@@ -1,6 +1,4 @@
-//"use strict";
-
-$(function() { 
+$(function() {
   $(".primary").lazyload({
     skip_invisible : false,
     threshold : 200,
